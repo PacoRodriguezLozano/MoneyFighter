@@ -1,0 +1,10 @@
+### Proyecto de Predicción de Resultados de Peleas de MMA
+
+Los deportes de contacto y, especialmente, las MMA, son un deporte muy variado con una amplia diversidad de estilos de pelea, técnicas y estrategias. Sin embargo, el objetivo de este proyecto es determinar la influencia del estilo del peleador y su rival en el resultado de una pelea a través de las estadísticas de golpeo y grappling de ambos peleadores.
+
+#### Objetivos
+
+1. Crear un modelo de predicción de ganador de una pelea de MMA lo más preciso posible, superando la probabilidad inicial del 50%.
+
+2. Evaluar si es posible elaborar un modelo de predicción del resultado de una pelea de MMA teniendo en cuenta tan solo las cualidades técnicas y físicas de ambos peleadores.
+
