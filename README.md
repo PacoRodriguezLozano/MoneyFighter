@@ -27,6 +27,6 @@ https://github.com/PacoRodriguezLozano/MoneyFighter
 Ten en cuenta que cambios en la estructura de las páginas que se utilizaron para obtener los datos o cambios en su código podrían resultar en un error en el notebook. Además, si se introducen nuevas barreras para evitar el WebSraping puede que se produzca un error. 
 Durante el desarrollo del proyecto, tan solo se encontró el problema de limitación de las solicitudes del servidor que se solucionó incorporando una gestión del error y un tiempo de pausa usando la librería “time”.  
 4. Si prefieres usar los datos que se obtuvieron en el momento del desarrollo del proyecto (datos actualizados hasta 05/02/2023):
-* Descargar datasets obtenidos tras el Web Scraping del siguiente link: XXXXXXXXXXXXXXXXXXXX. Y colocarlos en la misma carpeta en la que clonaste el proyecto.
-* Correr los notebooks en el mismo orden que antes, pero comenzando por el apartado XXXX saltando así la parte de adquisición de los datos.
+* Descargar datasets obtenidos tras el Web Scraping del siguiente link: https://drive.google.com/drive/folders/1kdoIGkDWWuYlr_DpAqAgxts2cf0cZfss?usp=share_link . Y colocarlos en la misma carpeta en la que clonaste el proyecto.
+* Correr los notebooks en el mismo orden que antes, pero comenzando por el apartado 1.1 y 2.1 saltando así la parte de adquisición de los datos.
 
